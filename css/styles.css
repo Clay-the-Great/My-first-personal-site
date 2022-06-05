@@ -38,10 +38,6 @@ h3 {
   color: #11999E;
 }
 
-a {
-  color: #11999E;
-}
-
 p {
   margin-top: 0;
   line-height: 2;
@@ -56,14 +52,14 @@ hr{
 
 .top-cloud {
   position: absolute;
-  top: 60px;
-  right: 400px;
+  top: 8%;
+  right: 25%;
 }
 
 .bottom-cloud {
   position: absolute;
-  left: 300px;
-  top: 270px;
+  left: 20%;
+  top: 45%;
 }
 
 .profile{
@@ -173,8 +169,10 @@ hr{
   font-size: 0.75rem;
 }
 
-a:link{
+a{
   text-decoration: none;
+  color: #187498;
+  font-family: 'Montserrat', sans-serif;
 }
 
 a:hover{
