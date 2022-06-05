@@ -36,6 +36,7 @@ h2 {
 h3 {
   font-family: 'Montserrat', sans-serif;
   color: #11999E;
+  font-size: 1.25rem;
 }
 
 p {
@@ -59,7 +60,7 @@ hr{
 .bottom-cloud {
   position: absolute;
   left: 20%;
-  top: 45%;
+  top: 55%;
 }
 
 .profile{
@@ -166,7 +167,7 @@ hr{
 .copyright{
   margin-top: 40px;
   color: #EAF6F6;
-  font-size: 0.75rem;
+  /*font-size: 0.75rem;*/
 }
 
 a{
