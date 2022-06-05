@@ -21,7 +21,7 @@ span {
 h1 {
   margin: 50px auto 50px auto;
   /*font-family: 'Sacramento', cursive;*/
-  font-family: 'Montserrat';
+  font-family: 'Montserrat', sans-serif;
   font-size: 3rem;
   color: #187498;
   /*line-height: 2;*/
