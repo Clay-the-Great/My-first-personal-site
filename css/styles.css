@@ -59,7 +59,7 @@ hr{
 .bottom-cloud {
   position: absolute;
   left: 20%;
-  top: 55%;
+  top: 45%;
 }
 
 .profile{
@@ -166,7 +166,7 @@ hr{
 .copyright{
   margin-top: 40px;
   color: #EAF6F6;
-  /*font-size: 0.75rem;*/
+  font-size: 0.75rem;
 }
 
 a{
